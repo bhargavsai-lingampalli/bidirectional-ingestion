@@ -37,8 +37,8 @@ This project provides a web-based application to facilitate bidirectional data i
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/clickhouse-flatfile-ingestor.git
-   cd clickhouse-flatfile-ingestor
+   git clone https://github.com/bhargavsai-lingampalli/bidirectional-ingestion.git
+   cd bidirectional-ingestion
    ```
 
 2. **Install Python dependencies**
