@@ -1,0 +1,5 @@
+flask
+clickhouse-connect
+pandas
+python-dotenv
+clickhouse-driver
