@@ -48,7 +48,7 @@ This project provides a web-based application to facilitate bidirectional data i
    ```
 
 3. **Configure environment**
-   Create a `.env` file in the `backend/` folder with the following keys:
+   Create a `.env` file in the `main/` folder with the following keys:
 
    ```ini
    CH_HOST=your_clickhouse_host
@@ -62,10 +62,10 @@ This project provides a web-based application to facilitate bidirectional data i
 
 ### Running the Application
 
-1. **Start the backend**
+1. **Start the main**
 
    ```bash
-   cd backend
+   cd main
    flask run --host=0.0.0.0 --port=5000
    ```
 
